@@ -1,8 +1,8 @@
 {
   "name": "react-desktop-tabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tabs for desktop apps with React ",
-  "main": "lib/index.js",
+  "main": "lib/Tabs.js",
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1"
